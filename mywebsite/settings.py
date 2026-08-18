@@ -85,8 +85,8 @@ DATABASES = {
         'NAME': 'railway',  
         'USER': 'postgres',  # username
         'PASSWORD': 'PGtHZJHFzwshtlPnHWxaqIPGRACCngso',  # passwor
-        'HOST': 'postgres.railway.internal',  
-        'PORT': '5432', 
+        'HOST': 'altaria.proxy.rlwy.net',  
+        'PORT': '27860', 
     }
 }
 
